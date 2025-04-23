@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = 'http://localhost:8080'; // Update with your actual backend URL
+const BASE_URL = 'bankingapp-production-57c0.up.railway.app'; // Update with your actual backend URL
 
 // Create axios instance with default config
 const api = axios.create({
